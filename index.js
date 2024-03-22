@@ -5,3 +5,5 @@ box.innerHTML= "Daiyr"
 let item = document.querySelector(".item")
 
 item.innerHTML = "Bishkek"
+
+let show
